@@ -42,6 +42,7 @@
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/25c21021-a790-439b-a310-c798469baaf7"/>
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/32a363e3-93f7-4d29-a392-972c43d2cd35"/>
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/910a1c48-217d-4895-a0c9-84955a4b2e91"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/5a9abceb-f80d-4e8e-b568-c80eada660ce"/>
 
 </div>
 <div align="center">
