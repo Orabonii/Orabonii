@@ -1,5 +1,5 @@
 <div align="center">
-<img widht=100% botton=50px src="https://github.com/Orabonii/oraboni/assets/70423924/604318d1-bf21-4aab-bde0-5c1e5cb70cd3"/>
+<img widht=100% botton=50px src="https://github.com/Orabonii/Orabonii/assets/70423924/1aa372eb-6af5-4e8c-a88b-ce778de2258e"/>
 <br>
 <br>
   
@@ -18,28 +18,28 @@
 
 <div align="center">
   <a href="https://www.instagram.com/kauaoraboni/" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/oraboni/assets/70423924/84dca86c-840f-4111-9ba0-876ac12e3436">
+    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/c625430f-9395-4407-940f-b308c6f1a10f">
   </a>
 
   <a href="https://www.linkedin.com/in/kauã-oraboni-043591260/" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/oraboni/assets/70423924/9eadcdbc-973f-47ef-9d94-7eb155460bf8">
+    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/35e3f43b-45e1-44e5-ad22-978eede5d71d">
   </a>
 
   <a href="kauaoraboni85@gmail.com" target="_blank">
-    <img align="center" height="84" src="https://github.com/Orabonii/oraboni/assets/70423924/3c9a5e62-d92d-415b-a25e-386e8f5baef4">
+    <img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/9b107268-c99c-4e99-a47d-c68a9d199d95">
   </a>
 
 </div>
-<img align="center" height="84" src="https://github.com/Orabonii/oraboni/assets/70423924/519f4983-4c6c-4e30-9fb1-173d6248504c">
+<img align="center" height="84" src="https://github.com/Orabonii/Orabonii/assets/70423924/12812876-691a-4f88-93e1-414d644aaccd">
 
 ### MINHAS SKILLS:
 <div align="center">
   
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/3183d46b-60fa-44d8-8609-29e3704a380c"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/0aa14422-86de-44b4-85f2-13cd94685633"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/fc1e2812-fd1b-4cff-b221-b24f9f7f7447"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/53adc96c-f00a-44ca-8acb-75e8e3f122ec"/>
-<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/oraboni/assets/70423924/25c21021-a790-439b-a310-c798469baaf7"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/b4f43a31-0847-4c93-a9fc-e62eea2b445e"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/6d42c8ea-dd6d-4eaf-bd5f-de2d2da1aaae"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/b334a873-985f-4fe4-bff1-fd8551f504c8"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/9d60054b-19cb-4dcb-abbf-a0e299a4760a"/>
+<img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/999b4269-d205-49d0-931b-103ba9f02178"/>
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/32a363e3-93f7-4d29-a392-972c43d2cd35"/>
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/910a1c48-217d-4895-a0c9-84955a4b2e91"/>
 <img align="center" height="80px" widht="80px" src="https://github.com/Orabonii/Orabonii/assets/70423924/5a9abceb-f80d-4e8e-b568-c80eada660ce"/>
@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-<img widht=100% botton=50px src="https://github.com/Orabonii/oraboni/assets/70423924/5351211a-1d0c-430c-ad87-3a2d98bc9392"/>
+<img widht=100% botton=50px src="https://github.com/Orabonii/Orabonii/assets/70423924/02c7479c-37ee-4e87-b9df-b8423344d038"/>
 
 </div>
 
